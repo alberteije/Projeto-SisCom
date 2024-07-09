@@ -1,6 +1,6 @@
 # Treinamento SisCom
 
-O treinamento SisCom é Pré-Requisito para o T2Ti ERP Fenix. Você deve assistir pelo menos aos vídeos do módulo que trata dos requisitos e banco. Assista ao [vídeo de orientação](https://t2ti.com/erp3/videos/#video_orientacao) que mostra como estudar o T2Ti ERP Fenix.
+O treinamento SisCom é Pré-Requisito para o T2Ti ERP 3.0. Você deve assistir pelo menos aos vídeos do módulo que trata dos requisitos e banco. 
 
 ## SisCom C#
 
